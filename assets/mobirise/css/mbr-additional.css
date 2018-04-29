@@ -1762,12 +1762,12 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-qQhJyWESL6 {
-  background-image: url("../../../assets/images/31232227-1483737795070946-4247053439709741056-n-960x540.jpg");
+  background-image: url("../../../assets/images/p-20180428-205856-vhdr-on-2000x1125.jpg");
 }
 .cid-qQneZaam54 {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-color: #101e21;
 }
 .cid-qQneZaam54 .mbr-slider .carousel-control {
   background: #1b1b1b;
@@ -1829,7 +1829,7 @@ body {
 .cid-qQhJyXyO9H {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #81a6af;
+  background-color: #ffffff;
 }
 @media (max-width: 767px) {
   .cid-qQhJyXyO9H .content {
@@ -1895,4 +1895,7 @@ body {
 }
 .cid-qQhJyXyO9H H5 {
   color: #262525;
+}
+.cid-qQhJyXyO9H P {
+  color: #262323;
 }
